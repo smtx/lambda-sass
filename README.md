@@ -1,2 +1,2 @@
 # lambda-sass
-Lambda function that transpire SASS files into CSS
+Lambda function in NodeJS, that transpile SASS files into CSS
