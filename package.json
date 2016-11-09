@@ -1,0 +1,23 @@
+{
+  "name": "lambda-sass",
+  "version": "1.0.0",
+  "description": "Lambda function in NodeJS, that transpile SASS files into CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smtx/lambda-sass.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smtx/lambda-sass/issues"
+  },
+  "homepage": "https://github.com/smtx/lambda-sass#readme",
+  "dependencies": {
+    "aws-sdk": "^2.6.15",
+    "node-sass": "^3.11.2"
+  }
+}
